@@ -1,0 +1,6 @@
+{
+  "short_name": "Martian Dice",
+  "name": "Martian Dice",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
